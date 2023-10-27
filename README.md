@@ -12,7 +12,9 @@
 # Search Weather
 
 
-https://github.com/AdityaRokade17/Weather-App-/assets/89978003/f5a1cd4f-19ad-4d87-92ad-782abb56b08b
+
+https://github.com/AdityaRokade17/Weather-App-/assets/89978003/7e683e47-b7ed-4072-9929-57328ededa58
+
 
 
 
